@@ -148,7 +148,7 @@
 // Power Loss Detection
 //
 #ifndef POWER_LOSS_PIN
-  #define POWER_LOSS_PIN                   P1_00  // PWRDET
+  #define POWER_LOSS_PIN                   P1_25  // PWRDET
 #endif
 
 //
